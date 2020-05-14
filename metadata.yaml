@@ -1,0 +1,44 @@
+_repo: The-Journal-of-Jacob-Fowler-Narrating-an-Adventure-from-Arkansas-Through-the-Indian-Territory__62018
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fowler, Jacob
+    birthdate: 1765
+    deathdate: 1850
+    gutenberg_agent_id: '51730'
+    url: http://www.gutenberg.org/2009/agents/51730
+  editor:
+    agent_name: Coues, Elliott
+    birthdate: 1842
+    deathdate: 1899
+    gutenberg_agent_id: '4611'
+    url: http://www.gutenberg.org/2009/agents/4611
+    wikipedia: https://en.wikipedia.org/wiki/Elliott_Coues
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arkansas River -- Description and travel'
+- !lcc 'F590.3'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'West (U.S.) -- History -- To 1848'
+- !lcsh 'Fur trade -- West (U.S.) -- History -- 19th century'
+- !lcsh 'Pioneers -- West (U.S.) -- Diaries'
+- !lcsh 'Fowler, Jacob, 1765-1850 -- Diaries'
+- !lcsh 'Fur traders -- West (U.S.) -- Diaries'
+- !lcsh 'West (U.S.) -- Description and travel'
+- GITenberg
+title: 'The Journal of Jacob Fowler
+
+  Narrating an Adventure from Arkansas Through the Indian
+
+  Territory, Oklahoma, Kansas, Colorado, and New Mexico, to
+
+  the Sources of Rio Grande del Norte, 1821-22'
+url: http://www.gutenberg.org/ebooks/62018
